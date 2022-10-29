@@ -14,7 +14,7 @@
 
 ## Deployed Link
 
-[Link]()
+[Link](https://bookmarkappfsjs.netlify.app/)
 
 ## Screenshots
 
