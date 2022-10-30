@@ -18,3 +18,10 @@
 
 ## Screenshots
 
+![Img](./Images/screenshots(1).png)
+![Img](./Images/screenshots(2).png)
+![Img](./Images/screenshots(3).png)
+![Img](./Images/screenshots(4).png)
+![Img](./Images/screenshots(5).png)
+
+
